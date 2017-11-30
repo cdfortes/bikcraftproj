@@ -117,6 +117,10 @@ img{
     
 }
 
+.header_menu ul li .menu_ativo {
+    color: #fff;
+}
+
 /*Fim header*/
 
 
